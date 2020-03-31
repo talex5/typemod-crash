@@ -1,0 +1,3 @@
+(library
+ (name current)
+ (libraries current_term))
